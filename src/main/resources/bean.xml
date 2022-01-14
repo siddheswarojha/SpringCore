@@ -10,6 +10,7 @@
 
 
     <bean id="hr" class = "com.spring.springcore.Autowiring.HrDept"/>
+    <bean id="it" class = "com.spring.springcore.Autowiring.ITDept"/>
 
     <bean id="dept" class = "com.spring.springcore.Autowiring.Company">
 

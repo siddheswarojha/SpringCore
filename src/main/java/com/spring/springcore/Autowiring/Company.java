@@ -7,8 +7,8 @@ public class Company {
 
 
     @Autowired
-    @Qualifier("hr")
-    HrDept  dept;
+    @Qualifier("it")
+    Dept  dept;
 
 
 //    public Company(HrDept dept)
